@@ -1,2 +1,0 @@
-# MovieMania
-MovieMania project
